@@ -1,0 +1,33 @@
+how many [reminders](timer_type) do I have
+how many [timers](timer_type) are currently active
+is the [countdown](timer_type) running right now
+is the [countdown](timer_type) running
+is there a [countdown](timer_type) running
+is there a [countdown](timer_type)
+how many [timers](timer_type) are active
+please say how many [alarms](timer_type) are currently active
+please share how many [alarms](timer_type) are currently set
+are there a lot of [reminders](timer_type)
+Please, how many [timers](timer_type) have been set
+please tell me how many [alarms](timer_type) there are
+what is the [timer](timer_type) count
+how many running [timers](timer_type) are there
+do you have any [timers](timer_type) running
+Do you have any [timers](timer_type) set
+do you have any active [alarms](timer_type)
+do you have a lot of [reminders](timer_type)
+What is the [timer](timer_type) count
+do you have the [timer](timer_type) count
+How many [alarms](timer_type) have been set
+how many [alarms](timer_type) are there right now
+How many [reminders](timer_type) do you have
+How many [reminders](timer_type) are active
+how many [alarms](timer_type) do you currently have
+how many [timers](timer_type) are running
+how many [timers](timer_type) are currently set
+how many [timers](timer_type) have been set
+How many [timers](timer_type) are there
+What is the [alarm](timer_type) count
+What is the [timer](timer_type) count
+How many [alarms](timer_type) are set
+How many [timers](timer_type) are set

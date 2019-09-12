@@ -1,0 +1,66 @@
+
+tell me [everything](property) about the [avocado plant](thing)
+what are [all](thing) the [moisture](property) values
+what [temperature](property) is the [sun flower](thing)
+What is the [battery](property) level of the [sun flower](thing)
+What is the [moisture](property) level of the [avocado plant](thing)
+What level does the [carbon monixide](thing) sensor indicate
+at what level is the [fine dust sensor](thing)
+what is currently the [value](property) of the [begonia](thing) sensor
+What is the [forecast](property) of the [weather station](thing)
+What are the [levels](property) of the [weather station](thing)
+can you read the [status](property) of [Snips](thing)
+What is the [brightness](property) of the [table lamp](thing)
+What is the level of the [table lamp](thing)
+What is the [battery](property) level of of the [window sensor](thing)
+What is the [color](property) of the [cellar light](thing)
+Can you tell me the [color](property) of the [bedroom light](thing)
+What [color](property) is the [living room light](thing)
+What are [all](thing) the [humidity](property) levels
+What are the [temperature](property) levels of [all devices](thing)
+How much [dust](property) has the [dust sensor](thing) measured?
+Tell me [all values](property) of the [dish washing machine](thing)
+What are [all](thing) the [temperature](property) levels?
+Can you list the [temperature](property) values of [all my things](thing)?
+What is the [humidity](property) level of [all things](thing)?
+can you list [all](thing) the [temperature](property) values?
+What are [all](thing) the [temperature](property) values?
+What is the [value](property) of the [temperature sensor](thing)?
+What is the [temperature sensor's](thing) [moisture](property) level?
+What is the [state](property) of the [carbon sensor](thing)?
+What does the [temperature sensor](thing) say?
+What does the [temperature sensor](thing) indicate?
+What does the [weather station's](thing) [moisture](property) level say?
+What does the [weather station's](thing) [barometer](property) indicate?
+What is the state of the [barometer](property) of the [weather station](thing)?
+What does the [barometer](property) of the [weather station](thing) indicate?
+What level is the [third](property) sensor of the [plant health sensor](thing)?
+What is the [moisture](property) level of the [temperature sensor](thing)?
+What level is the [moisture](property) of the [temperature sensor](thing)?
+What level is the [temperature sensor](thing)?
+How much is the [dust sensor](thing) indicating?
+How high is the [dust sensor](thing)?
+How bad is [dust sensor](thing)?
+What level is the [dust sensor](thing)?
+How [dusty](property) is the [dust sensor](thing)?
+What is the current [state](property) of the [fine dust sensor](thing)?
+What is the [status](property) of the [fine dust sensor](thing)?
+How many [watts](property) is the [electricity use sensor](thing) showing?
+What is the [weather forecast](property) of the [weather station](thing)?
+How much [carbon monoxide](property) is in the [air](thing)?
+How much [motion](property) did the [alarm clock](thing) detect?
+How high is the [first](ordinal) sensor of the [plant health sensor](thing)?
+How moist is the [second](ordinal) sensor of the [plant health sensor](thing)?
+What is the [carbon dioxide](property) level of the [carbon sensor](thing)?
+How much is the [carbon dioxide](property) of the [carbon sensor](thing)?
+How high is the [barometer](property) of the [weather station](thing)?
+What is the [dust](property) level of the [fine dust sensor](thing)?
+What is the [battery](property) level of [miflora geranium](thing)?
+How high is the [temperature](property) of [temperature sensor](thing)?
+How [warm](property) is the [fireplace](thing)?
+How [wet](property) is the [pancake plant](thing)?
+What is the [moisture](property) level of the [pancake plant](thing)?
+What is the [temperature](property) of the [fireplace](thing)?
+What is the [temperature](property) level of the [temperature sensor](thing)?
+What is the [temperature](property) of the [thermostat](thing)?
+What level is the [temperature](property) of the [thermostat](thing)?

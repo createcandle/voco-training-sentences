@@ -1,0 +1,72 @@
+what are [all](timer_last) my [reminders](timer_type)
+tell me [all](timer_last) [reminders](timer_type)
+what are [all](timer_last) the [reminders](timer_type)
+[Please](pleasantries) give me an overview of [all](timer_last) the [timers](timer_type)
+[please](pleasantries) give me [all](timer_last) the [reminders](timer_type) in a list
+Can you give me [all](timer_last) the [reminders](timer_type)
+tell me what the [reminders](timer_type) are
+tell me [all](timer_last) the [reminders](timer_type)
+speak [all](timer_last) the [reminders](timer_type)
+say [all](timer_last) the [reminders](timer_type)
+give me an [overview](timer_last) of the [timers](timer_type)
+list me the [timers](timer_type)
+[Please](pleasantries) give me a list of [all](timer_last) the [timers](timer_type) that are currently set
+in how many days does the [last](timer_last) [alarm](timer_type) go off
+in how many seconds does the [timer](timer_type) stop
+In how many minutes does the [timer](timer_type) stop
+When do the [timers](timer_type) stop
+When are the [alarms](timer_type) scheduled to go off
+can you [please](pleasantries) tell me at what times the [alarm](timer_type) will go off
+until when is the [last](timer_last) [reminder](timer_type)
+when are [all](timer_last) the [reminders](timer_type)
+Can you tell me about [all](timer_last) the [reminders](timer_type) please
+can you give me a list of [all](timer_last) the [reminders](timer_type)
+how much time is left for the [countdown](timer_type)
+How much time is there left for the [countdown](timer_type)
+How much time is there left until the [last](timer_last) [reminder](timer_type) ends
+When is the [last](timer_last) [timer](timer_type) for
+How much longer will the [countdown](timer_type) continue
+How long does the [countdown](timer_type) have to go
+When is the [countdown](timer_type) ending
+When is the [last](timer_last) [alarm](timer_type) scheduled
+what time is the [last](timer_last) [alarm](timer_type) for
+What are [all](timer_last) the [reminders](timer_type) for
+What is the content of [all](timer_last) the [reminders](timer_type)
+can you tell me what [all](timer_last) the [reminders](timer_type) are about
+When will the [reminders](timer_type) go off
+When wil the [alarms](timer_type) go off
+could you tell me at what times the [alarms](timer_type) are set
+Can you tell me at what times the [alarms](timer_type) will go off [please](pleasantries)
+[Please](pleasantries) tell me at what times the [alarms](timer_type) will go off
+[Please](pleasantries) list the moments the [alarms](timer_type) will go off
+What are the times when the [alarm](timer_type) will go off
+What are the moments when the [alarms](timer_type) will go off
+Can you list [all](timer_last) the moments when the [alarms](timer_type) will go off
+At what moment will the [last](timer_last) [reminder](timer_type) go off
+When will the [last](timer_last) [reminder](timer_type) that I added go off
+what is the moment when the [last](timer_last) [alarm](timer_type) will go off
+what is the end time of the [last](timer_last) [reminder](timer_type)
+When will the [last](timer_last) reminder end
+when is the [countdown](timer_type) finished
+when will the [countdown](timer_type) activate
+when will the [last](timer_last) [reminder](timer_type) activate
+when will the [last](timer_last) [reminder](timer_type) go off
+at what date will the [last](timer_last) alarm go off
+at what time will the [last](timer_last) [reminder](timer_type) go off again
+For when is the [last](timer_last) timer set
+[Please](pleasantries) tell me when the [last](timer_last) [timer](timer_type) will go off
+[please](pleasantries) tell me the [last](timer_last) [reminder](timer_type)
+What is the [last](timer_last) [reminder](timer_type)
+What are the [reminders](timer_type)
+can you tell us [all](timer_last) the currently set [reminders](timer_type)
+Do you have an overview of [all](timer_last) the [timers](timer_type) for me
+Can you tell me when [all](timer_last) the [alarms](timer_type) will go off
+Can you tell me when the [last](timer_last) added [alarm](timer_type) will go off
+Can you tell me the time of the [last](timer_last) added [reminder](timer_type)
+can you tell me what the [last](timer_last) added [reminder](timer_type) says
+What was the [last](timer_last) added [reminder](timer_type) again
+What are [all](timer_last) the [reminders](timer_type) that are active
+Can you give me an overview of [all](timer_last) the currently set [reminders](timer_type)
+Can you tll me [all](timer_last) the [reminders](timer_type) the are currently set
+Do you have a list of [all](timer_last) the [reminders](timer_type)
+[Please](pleasantries) give me a list of [all](timer_last) currently enabled [timers](timer_type)
